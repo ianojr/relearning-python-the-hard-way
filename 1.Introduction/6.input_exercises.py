@@ -10,7 +10,7 @@ print(f"The area is {area}cm²\n")
 
 
 # Exercise 2 - A shopping cart program that accepts an item, price and the quantity
-item = input("What so u want to buy?: ")
+item = input("What do u want to buy?: ")
 quantity = int(input("What is the quantity?: "))
 price = float(input("What is the price for one item?: "))
 

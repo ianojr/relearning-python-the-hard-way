@@ -31,3 +31,5 @@ print(bool(name)) # Can be used to check if the user entered a value or not
 data = input("Type anything: ")
 while not bool(data):
     data = input("Ensure u type anything: ")
+
+    
